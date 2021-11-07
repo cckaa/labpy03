@@ -1,5 +1,4 @@
 # labpy03
-# labpy03
 ### __Latihan 1__ :
 1. Tampilkan n bilangan acak yang lebih kecil dari 0.5.
 2. nilai n diisi pada saat runtime
